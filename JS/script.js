@@ -4,3 +4,5 @@ Pescara`;
 let edad=18;
 const ocupacion="Estudiante";
 //#endregiondatos
+//#regionLeerDatos
+//#endregionLeerDatos

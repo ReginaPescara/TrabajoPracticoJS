@@ -7,4 +7,5 @@ const ocupacion="Estudiante";
 //#regionLeerDatos
 console.log(nombreCompleto);
 console.log(edad);
+console.log(ocupacion);
 //#endregionLeerDatos

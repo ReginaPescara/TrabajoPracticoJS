@@ -1,5 +1,5 @@
 //#regiondatos
-var nombreCompleto = `Regina Aril
+var nombreCompleto = `Regina Abril
 Pescara`;
 let edad=18;
 const ocupacion="Estudiante";

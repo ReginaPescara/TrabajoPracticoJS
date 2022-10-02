@@ -5,4 +5,5 @@ let edad=18;
 const ocupacion="Estudiante";
 //#endregiondatos
 //#regionLeerDatos
+console.log(nombreCompleto);
 //#endregionLeerDatos

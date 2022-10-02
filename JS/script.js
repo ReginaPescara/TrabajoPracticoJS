@@ -9,3 +9,5 @@ console.log(nombreCompleto);
 console.log(edad);
 console.log(ocupacion);
 //#endregionLeerDatos
+//#regionInicioFin
+//#endregionInicioFin

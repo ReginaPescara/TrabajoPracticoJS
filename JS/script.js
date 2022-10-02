@@ -10,4 +10,6 @@ console.log(edad);
 console.log(ocupacion);
 //#endregionLeerDatos
 //#regionInicioFin
+var incio=0;
+
 //#endregionInicioFin

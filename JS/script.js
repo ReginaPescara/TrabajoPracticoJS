@@ -11,5 +11,5 @@ console.log(ocupacion);
 //#endregionLeerDatos
 //#regionInicioFin
 var incio=0;
-
+var fin=Array(1,2,3,4,5);
 //#endregionInicioFin

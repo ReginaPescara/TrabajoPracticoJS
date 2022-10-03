@@ -26,4 +26,5 @@ var num2=(10);
 var suma=(num1+num2);
 var resta=(num1-num2);
 var multiplicacion(num1*num2);
+var division(num1/num2);
 //#endregion calculos matematicos

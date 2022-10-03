@@ -28,6 +28,3 @@ var resta=(num1-num2);
 var multiplicacion=(num1*num2);
 var division=(num1/num2);
 //#endregion calculos matematicos
-//#region mostrar calculos
-console.log(suma);
-//#endregion mostrar calculos

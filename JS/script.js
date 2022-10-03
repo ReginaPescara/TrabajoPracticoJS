@@ -15,6 +15,6 @@ var fin=Array(1,2,3,4,5);
 //#endregionInicioFin
 //#regionRecorrido
 for (inicio of fin){
-    
+    console.log(inicio);
 }
 //#endregionRecorrido

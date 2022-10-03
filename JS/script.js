@@ -18,3 +18,5 @@ for (inicio of fin){
     console.log(inicio);
 }
 //#endregionRecorrido
+//#region Variables de calculos matematicos
+//#endregion Variables de calculos matematicos

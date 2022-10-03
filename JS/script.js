@@ -22,3 +22,5 @@ for (inicio of fin){
 var num1=(15);
 var num2=(10);
 //#endregion Variables de calculos matematicos
+//#region calculos matematicos
+//#endregion calculos matematicos

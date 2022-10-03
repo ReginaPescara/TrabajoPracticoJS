@@ -24,7 +24,7 @@ var num2=(10);
 //#endregion Variables de calculos matematicos
 //#region calculos matematicos
 console.log(`La suma es:` + suma=(num1+num2));
-var resta=(num1-num2);
+console.log(`La resta es:`+resta=(num1-num2));
 var multiplicacion=(num1*num2);
 var division=(num1/num2);
 //#endregion calculos matematicos

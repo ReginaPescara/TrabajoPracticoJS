@@ -24,4 +24,5 @@ var num2=(10);
 //#endregion Variables de calculos matematicos
 //#region calculos matematicos
 var suma=(num1+num2);
+var resta=(num1-num2);
 //#endregion calculos matematicos

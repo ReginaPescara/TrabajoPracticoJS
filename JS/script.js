@@ -20,4 +20,5 @@ for (inicio of fin){
 //#endregionRecorrido
 //#region Variables de calculos matematicos
 var num1=(15);
+var num2=(10);
 //#endregion Variables de calculos matematicos
